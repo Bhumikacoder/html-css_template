@@ -1,0 +1,204 @@
+*{padding: 0%;
+ margin: 0%;}
+
+.section1{width: 100%;
+         float: left;}
+.section1 h1{text-align: center;
+            font-size: 12px;
+            background: #191919;
+            color: #fff;
+            padding: 6px;}
+            
+            
+.section2{width: 100%;
+              float: left;}            
+.section2-left ul {list-style: none;
+                   width: 20%;
+                   float: left;
+                   padding: 10px;
+                  margin-top: 5px;}
+.section2-left ul li{float: left;}
+.section2-left ul li img{width: 50%;
+                        padding-left: 10px;}
+.section2-left ul li input{border-radius: 10px;
+                          padding: 1px;
+                       }
+.section2-middle ul {list-style: none;
+                   width: 50%;
+                   float: left;
+                   margin-left: 10%;}
+.section2-middle ul li{float: left;
+                      padding:15px;}
+.section2-middle ul li img{width: 50%;
+                            margin-left: 30px;}
+.section2-middle ul li a{text-decoration: none;
+                        color: #000000;}
+.section2-middle ul li a:hover{text-decoration: underline;
+                              color: #5b5a5a;}
+.section2-right ul {list-style: none;
+                   width: 15%;
+                   float: right;
+                  
+                   margin-top: 12px;
+                   margin-right: 10px; }
+.section2-right ul li{float: right;
+                   }
+.section2-right ul li img{width: 40%;}
+
+
+
+.section3{width: 100%;
+    float: left;}
+.section3 img{width: 100%;}    
+
+
+
+.section4{width: 88%;
+    float: left;
+    padding-left: 12%;
+    margin-top: 5%;}
+.section4 ul{list-style: none;
+              width: 100%;
+             float: left;
+            }
+.section4 ul li{width: 30%;
+               float: left;}
+.section4 ul li img{width: 90%;}
+.section4 ul li:nth-child(odd){margin-top: 30px ;}
+
+
+
+
+.section5{width: 80%;
+    float: left;
+    margin-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;}
+.section5 h2{font-size: 20px;
+              margin-left: 10%;
+            }
+.section5 ul{list-style: none;
+             width:100%;
+            float: left;
+           border-block-start: 1px solid #191919;
+       }
+.section5 ul li{ width: 20%;
+            float: left;
+            margin-left: 50px;
+        }
+.section5 ul li img{width: 100%;
+                   margin-top: 20px;
+                }
+.section5 ul li h3{font-size: 15px;
+                  padding: 10px;
+                  text-align: center;
+                }
+
+
+
+
+.section6{width: 100%;
+          float: left;
+         
+         margin-top: 5%;}
+.section6 h4{font-size: 35px;
+    text-align: center;}
+.section6 p{font-size: 15px;
+            margin-top: 5px;
+           color: #575757;
+           text-align: center;}
+.section6 ul{list-style: none;
+             width:87%;
+            float: left;
+           padding-left: 12%;
+           text-align: center;
+          margin-top: 10px;}
+.section6 ul li{ width: 10%;
+            float: left;
+            margin-left: 10px;}
+.section6 ul li img{width: 60%;
+                   margin-top: 20px;}
+.section6 a{text-decoration: none;
+           color: #000000;}  
+.section6 a:hover{text-decoration:underline;
+                 color: #5b5a5a;}  
+
+
+
+.section7{width: 100%;
+    float: left;
+   margin-top: 5%;}
+.section7 img{width: 100%;}    
+
+
+
+.section8{width: 80%;
+    float: left;
+    margin-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;}
+.section8 h2{font-size: 30px;
+              margin-left: 15%;}
+.section8 ul{list-style: none;
+             width:100%;
+            float: left;
+           
+         border-block-start: 1px solid #575757;}
+.section8 ul li{ width: 20%;
+            float: left;
+            margin-left: 50px;}
+.section8 ul li img{width: 100%;
+                   margin-top: 20px;}
+.section8 ul li h3{font-size: 15px;
+                  padding: 10px;
+                  text-align: center;}
+
+
+
+.section9{width: 100%;
+          float: left;
+         
+         margin-top: 5%;}
+.section9 ul{list-style: none;
+             width:87%;
+            float: left;
+           padding-left: 13%;
+           text-align: center;
+          margin-top: 10px;}
+.section9 ul li{ width: 14%;
+            float: left;
+            }
+.section9 ul li img{width: 100%;
+                   margin-top: 20px;}
+.section9-head {background: #fefdfd;
+        margin-left: 40%;
+        text-align: center;
+        margin-top: 5%;
+        margin-right: 40%;}
+
+
+
+
+.section10{width: 100%;
+          float: left;
+          background: #f9f9f9;
+        margin-top: 60px;}
+          
+.section10 ul{list-style: none;
+             width: 18%;
+             float: left;
+            padding: 15px;
+           font-size: 12px;
+           margin-top: 30px;}     
+.section10 ul li{
+            width: 100%;
+             float: left;
+            margin-left: 42%;
+            padding: 5px;}     
+.section10 ul:first-child{padding: 40px;}
+.section10 a{text-decoration: none;
+    color: #000000;}  
+.section10 a:hover{text-decoration:underline;
+          color: #5b5a5a;}  
+
+
